@@ -1,0 +1,19 @@
+h1{
+    color:red;
+}
+.baslik{
+    color:blue;
+    background-color:yellow;
+    font-size:50px;
+    width:50%;
+}
+.featbaslik{
+  
+    font-size:60px;
+    width:70%;
+}
+#tc{
+    font-size:30px;
+    color:blue;
+
+}
